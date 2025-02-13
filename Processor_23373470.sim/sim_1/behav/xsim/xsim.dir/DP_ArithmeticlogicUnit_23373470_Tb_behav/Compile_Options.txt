@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "DP_ArithmeticlogicUnit_23373470_Tb_behav" "xil_defaultlib.DP_ArithmeticlogicUnit_23373470_Tb" -log "elaborate.log" 

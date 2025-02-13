@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "CPU_DFlipFlop_233373470_TB_behav" "xil_defaultlib.CPU_DFlipFlop_233373470_TB" -log "elaborate.log" 
